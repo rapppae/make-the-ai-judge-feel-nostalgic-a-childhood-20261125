@@ -4,7 +4,7 @@
 
 Entry for the make.fun bounty [Make the AI Judge Feel Nostalgic: A Childhood Memory](https://make.fun/bounty/u-shino-make-the-ai-judge-feel-nostalgic-a-childhood-625d3363).
 
-> Grandma’s kitchen smelled of fried rice and rain, and every evening I would sit by the window waiting for the street vendors’ bells, certain the whole world was just outside.
+> In Grandma’s kitchen the rice steamed, rain drummed the tin roof, and I sat by the window listening for the vendor’s bell, sure the whole world was waiting just outside.
 
 ## Run
 
